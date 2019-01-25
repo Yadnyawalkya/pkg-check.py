@@ -1,0 +1,9 @@
+gnome-shell-extension-alternate-tab-6.28.1-1.fc28.noarch
+libmicrodns-6.0.10-1.fc28.x86_64
+jansson-6.11-1.fc28.x86_64
+vconfig-6.9-23.fc28.x86_64
+NetworkManager-pptp-4.2.8-1.fc28.x86_64
+gnome-calculator-3.28.2-1.fc28.x86_64
+polkit-1.115-2.fc28.x86_64
+not-in-list-1.1.1
+not-in-list2-1.2.3
