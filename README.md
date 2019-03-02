@@ -2,7 +2,7 @@ Local package check
 =======================
 Checks versions of packages on local machine, now prepare support matrices in a minute!
 
-[![asciicast](https://asciinema.org/a/wNBnXQNNAq8hcS0fRFQyOVHL2.svg)](https://asciinema.org/a/wNBnXQNNAq8hcS0fRFQyOVHL2)
+[![asciicast](https://asciinema.org/a/qiBeZaZtdyzT14WsZ6CR6QbSf.svg)](https://asciinema.org/a/qiBeZaZtdyzT14WsZ6CR6QbSf)
 
 Menu
 -----
